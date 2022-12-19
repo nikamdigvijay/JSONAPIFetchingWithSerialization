@@ -1,0 +1,6 @@
+framework module Pods_TaskFirstApi {
+  umbrella header "Pods-TaskFirstApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
